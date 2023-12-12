@@ -48,10 +48,8 @@ https://webudit.hlsjs.ru/lb/premium580/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webudit.hlsjs.ru/lb/premium579/index.m3u8
 
-
-#EXTINF:-1 tvg-id="13" tvg-name"SKHD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/SK_HD_RS_logo.png",SKHD
-#EXTVLCOPT:http-referrer=https://www.niaomea.me/
-https://ed-c001.edgking.me/plyvivo/gogapaxo2ina50wi7oko/chunklist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name"TNT_SPORT_2" tvg-logo="https://eu1-prod-images.disco-api.com/2023/07/03/a2cef6c1-542c-4895-968e-db40ccf822c8.png?bf=0&f=png&p=true&q=60&w=360",TNT SPORT 2
+http://45.142.122.81:43911/ls/88de5dd1182abd9e0ea53877868731bfa08bf34323e77d1f2441e0e7bd8fecd86805e237ec8b65b767c1bd716ca662d7e4fe3d754581f64c588db6b723b59d41/65787c744f6b6164752375/8f9d1c5d4a348038f2097f2107a11970/6578a79856b30/xb831Tx8jZF7dN22Qw3Tlakv7kavUHXi/i
 
 #EXTINF:-1 tvg-id="14" tvg-name"TNTSPORTS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/640px-Logo_bein_sports_2.png",TNTSPORTS1
 #EXTVLCOPT:http-referrer=https://bestsolaris.com/
