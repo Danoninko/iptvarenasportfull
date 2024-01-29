@@ -56,6 +56,5 @@ http://45.142.122.81:43911/ls/88de5dd1182abd9e0ea53877868731bfa08bf34323e77d1f24
 https://temp.elroystoval.store/live/TNTSports1/caxis.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name"beIN_SPORTS_2_MENA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/640px-Logo_bein_sports_3.png",beIN SPORTS 3 MENA
-#EXTVLCOPT:http-referrer=https://www.elahmad.com
 https://live.kwikmotion.com/ksasports1live/ksasports1.smil/playlist_dvr.m3u8?hdnts=exp=1706555044~acl=/ksasports1live/ksasports1.smil/*~hmac=ebd956da0d64e14371c899d1f7e9df2f11bbbaf61b728019d37648da3048d829
 
