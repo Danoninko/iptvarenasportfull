@@ -1,6 +1,5 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://prod.drm.webtvstream.bhtelecom.ba/license.php?system=wv&content_id=2a8e34cc1dd50ea5a896681e90893ea2&u=Q0RcVl5XWEJXWA%3D%3D&d=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
-#EXTINF:-1 tvg-id="1" tvg-name"Arena_Premium_1" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_Premium_RS_logo.png",Arena Premium 1
 https://mdfu.webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=browserQ0RcVl5XWEJXWAPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhAV0dET1tBVEECwMgMyhcR19SRFZd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
